@@ -55,7 +55,7 @@ Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the nam
 5. **Making Changes and Committing:** After making changes to the files, you can stage and commit them:
     ```bash
     - git add .
-    ```bash
+    
     - git commit -m "Your commit message here"
 
 6. **Pushing Changes to Your Fork:** To push your changes back to your forked repository on GitHub, use:
