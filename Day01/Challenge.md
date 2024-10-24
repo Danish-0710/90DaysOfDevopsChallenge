@@ -1,4 +1,5 @@
 # #90DaysOfDevOps Challenge - Day 1
+i
 
 Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! Today marks the beginning of our exciting journey into the world of DevOps. Here’s a breakdown of what you need to do today.
 
@@ -62,4 +63,12 @@ Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the nam
 6. **Pushing Changes to Your Fork:** To push your changes back to your forked repository on GitHub, use:
 
     - git push origin main
-   
+ 
+## Resources
+- **DevOps Roadmap Video:** [Watch Here](https://youtu.be/g_QHuGq3E2Y?si=fR9K56-JevZTfrBK)
+- **GitHub Repository:** [Fork this Repository](https://github.com/your-repo-link)
+
+## Engagement
+- Write a LinkedIn post or a small article sharing your understanding of DevOps based on the video and your research. Make sure to cover the points mentioned above.
+- Share your LinkedIn post or article link in the community forum or on social media using the hashtags **#90DaysOfDevOps** and **#TrainWithShubham**.
+- Read and comment on posts from other participants to foster a collaborative learning environment.
