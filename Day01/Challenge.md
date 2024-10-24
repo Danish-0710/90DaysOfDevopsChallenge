@@ -1,7 +1,5 @@
 # #90DaysOfDevOps Challenge - Day 1
-
 ---
-
 Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! Today marks the beginning of our exciting journey into the world of DevOps. Here’s a breakdown of what you need to do today.
 
 ## Overview
