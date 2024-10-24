@@ -44,7 +44,7 @@ To participate in the challenge, you will need to fork the repository. Follow th
 
 Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the name of the repository you forked.
 
-3. **Navigate to the Repository Directory:
+3. **Navigate to the Repository Directory:**
 
     - cd REPOSITORY_NAME
 
