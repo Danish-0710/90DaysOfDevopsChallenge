@@ -41,26 +41,26 @@ To participate in the challenge, you will need to fork the repository. Follow th
    After forking, you can clone it to your local machine using the following command:
    ```bash
    git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
-
+   
 Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the name of the repository you forked.
 
 3. **Navigate to the Repository Directory:**
     ```bash
-    - cd REPOSITORY_NAME
+    cd REPOSITORY_NAME
 
 4. **Check the Remote Repository:** To see the remote repositories linked to your local repository, use:
     ```bash
-    - git remote -v
+    git remote -v
 
 5. **Making Changes and Committing:** After making changes to the files, you can stage and commit them:
     ```bash
-    - git add .
+    git add .
     
-    - git commit -m "Your commit message here"
+    git commit -m "Your commit message here"
 
 6. **Pushing Changes to Your Fork:** To push your changes back to your forked repository on GitHub, use:
     ```bash
-    - git push origin main
+    git push origin main
  
 
 ---
