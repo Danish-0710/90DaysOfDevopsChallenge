@@ -42,7 +42,7 @@ To participate in the challenge, you will need to fork the repository. Follow th
    ```bash
    git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
    
-Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the name of the repository you forked.
+### Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the name of the repository you forked.
 
 3. **Navigate to the Repository Directory:**
     ```bash
@@ -55,8 +55,10 @@ Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the nam
 5. **Making Changes and Committing:** After making changes to the files, you can stage and commit them:
     ```bash
     git add .
-    
+    ```
+    ```bash
     git commit -m "Your commit message here"
+    ```
 
 6. **Pushing Changes to Your Fork:** To push your changes back to your forked repository on GitHub, use:
     ```bash
