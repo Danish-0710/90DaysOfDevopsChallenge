@@ -31,7 +31,6 @@ DevOps is important because it helps organizations:
 
 ## Commands Covered:
 
-### 1. Forking a Repository
 To participate in the challenge, you will need to fork the repository. Follow these steps:
 
 1. **Fork the Repository:**
