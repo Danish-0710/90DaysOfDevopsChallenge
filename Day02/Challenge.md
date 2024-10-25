@@ -26,6 +26,7 @@ The `ls` command is used to list files and directories in your current location.
 ### Syntax
 ```bash
 ls [option_flag] [arguments]
+```
 
 ## Common Flags
 
