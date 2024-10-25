@@ -56,28 +56,39 @@ Lists only directories in the current path.
 ## Directory Commands
 
 1. **Print Working Directory**
-- Command: pwd
-What it does: Displays your current location in the file system. Think of it as asking, "Where am I right now?"
+
+    - Command: pwd
+    - What it does: Displays your current location in the file system. Think of it as asking, "Where am I right now?"
 
 2. **Change Directory**
-- Command: cd path_to_directory
-What it does: Changes your current location to the specified directory. You can think of it as moving into a folder.
 
-3. **Shortcut: cd ~ or just cd**
-What it does: Takes you back to your home directory (the main folder for your user account).
+    - Command: cd path_to_directory
+    - What it does: Changes your current location to the specified directory. You can think of it as moving into a folder.
 
-4. **Command: cd -**
-What it does: Switches back to the last directory you were in.
+3. **Change Directory**
 
-5. **Command: cd ..**
-What it does: Moves one level up in the directory structure (to the parent folder).
+    - Command: cd ~ or just cd
+    - What it does: Takes you back to your home directory (the main folder for your user account).
 
-6. **Command: cd ../..**
-What it does: Moves two levels up in the directory structure.
+4.  **Change Directory**
+    
+    - Command: cd -
+    - What it does: Switches back to the last directory you were in.
+
+5. **Change Directory**
+    
+    - Command: cd ..
+    - What it does: Moves one level up in the directory structure (to the parent folder).
+
+6. **Change Directory**
+    
+    - Command: cd ../..
+    - What it does: Moves two levels up in the directory structure.
 
 7. **Make Directory**
-- Command: mkdir directoryName
-What it does: Creates a new directory with the specified name.
+    
+    - Command: mkdir directoryName
+    - What it does: Creates a new directory with the specified name.
 
 
 
